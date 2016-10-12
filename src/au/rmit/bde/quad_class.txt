@@ -1,0 +1,4 @@
+1	Verbal_Cooperation
+2	Material_Cooperation
+3	Verbal_Conflict
+4	Material_Conflict
